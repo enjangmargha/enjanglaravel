@@ -20,7 +20,7 @@
           <div class="card-body p-4">
             <div class="d-flex text-black">
               <div class="flex-shrink-0">
-                <img src="https://i.pinimg.com/564x/c4/4d/02/c44d02e9861bb0d785f12233fc4acd3e.jpg"
+                <img src="https://i.pinimg.com/564x/83/70/f5/8370f50430b3f2be236605cc7c2d6937.jpg"
                   alt="Generic placeholder image" class="img-fluid"
                   style="width: 180px; border-radius: 10px;">
               </div>
